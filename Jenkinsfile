@@ -4,7 +4,7 @@ pipeline {
   stages {
       stage('Clone Repo') {
           steps {
-              git 'https://github.com/sangamesh1604-svg/dqe-automation.git'
+              git 'https://github.com/sangameshm1604-svg/dqe-automation-new.git'
           }
       }
 
